@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "crates/libs/*",
+    "crates/samples/*",
+    "crates/targets/*",
+    "crates/tests/*",
+    "crates/tools/*",
+]
